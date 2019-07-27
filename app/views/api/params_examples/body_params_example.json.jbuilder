@@ -1,0 +1,1 @@
+json.listen_to_me @secret_message
